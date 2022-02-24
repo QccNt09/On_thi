@@ -54,18 +54,7 @@ public class Main {
                 default: System.out.println("Khong co lua chon nay! Moi nhap lai");
 
             }
-        }
-//        st.nhapSP();
-//        st.inDanhSachSP();
-//        st.nhapthemKH();
-//        st.nhapthemKH();
-////        st.nhapthemKH();
-//        
-//        st.doiTTKH();
-//        st.inKH();
-//        st.muaHang();
-//        st.inDanhSachSP();
-        
+        }    
         
     }
     
